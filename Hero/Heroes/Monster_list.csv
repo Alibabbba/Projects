@@ -1,0 +1,4 @@
+name;health;damage;defense;speed
+goblin;10;2;1;2
+hobgoblin;20;4;2;4
+bandit;30;6;3;5
